@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fillter-Search-Bar/static/css/main.cf91c0bf.css",
+    "main.js": "/Fillter-Search-Bar/static/js/main.b80fbb17.js",
+    "index.html": "/Fillter-Search-Bar/index.html",
+    "main.cf91c0bf.css.map": "/Fillter-Search-Bar/static/css/main.cf91c0bf.css.map",
+    "main.b80fbb17.js.map": "/Fillter-Search-Bar/static/js/main.b80fbb17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf91c0bf.css",
+    "static/js/main.b80fbb17.js"
+  ]
+}
